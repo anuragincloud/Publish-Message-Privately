@@ -1,0 +1,7 @@
+This folder contains the images of the resources deployed on AWS Cloud for this Project.
+I have included the images of :
+  -CloudFormation Stack
+  -SNS Topic
+  -VPC Endpoint
+  -Message sent privately through the EC2 Instance in the same network(VPC)
+  -Message recieved on the users mail address
